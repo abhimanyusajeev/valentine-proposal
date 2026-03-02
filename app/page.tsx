@@ -171,7 +171,7 @@ export default function Home() {
             </h2>
 
             <textarea
-              className="w-full border p-2 rounded-lg mb-4"
+              className="w-full border p-2 rounded-lg mb-4 text-black"
               rows={3}
               placeholder="Tell me the reason..."
               value={reason}
